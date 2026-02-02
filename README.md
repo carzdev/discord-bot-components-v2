@@ -40,5 +40,6 @@ Ce repo inclut des scripts d'automatisation pour Windows.
 
 1. **Cloner le projet**
    ```bash
-   git clone [https://github.com/votre-user/discord-bot-v2.git](https://github.com/votre-user/discord-bot-v2.git)
-   cd discord-bot-v2
+   git clone [https://github.com/votre-user/discord-bot-v2.git](https://github.com/carzdev/discord-bot-components-v2.git)
+
+   cd discord-bot-components-v2
